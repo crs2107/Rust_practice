@@ -1,4 +1,4 @@
-
+// Added new comment
 fn main(){
   let x = check_prime(2);
   println!("{}",x);
